@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "A7LPT68R7C.io.imac.demo",
+            "paths": ["*"]
+            },
+        }]
+    },
+    "appclips": {
+        "apps": ["A7LPT68R7C.io.imac.demo.Clip"]
+    }
+}

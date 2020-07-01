@@ -4,11 +4,11 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Detecyang
-subtitle:
-description:
-author: Detecyang
-# Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
+title: Home
+subtitle: It's a web.
+description: Nothing.
+author: detecyang
+# Support language: en, zh-Hans
 language: zh-Hans
 date_format: '%Y-%m-%d'
 
